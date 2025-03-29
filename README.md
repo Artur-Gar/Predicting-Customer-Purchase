@@ -6,7 +6,7 @@ This repository contains a full machine learning pipeline for predicting custome
 
 ## 📁 Project Structure
 
-<pre> ```
+<pre>
   . 
   ├── Purchase_prediction.ipynb      # Main notebook with training and evaluation pipeline 
   ├── data/ 
@@ -17,7 +17,7 @@ This repository contains a full machine learning pipeline for predicting custome
   │ ├── custom_cv_functions.py       # Cross-validation logic with threshold optimization 
   │ ├── custom_data_imputing.py      # Iterative KNN imputation for missing values 
   │ └── custom_neural_network.py     # Torch-based binary classification network with CV 
-  ``` </pre>
+</pre>
 
 ---
 
