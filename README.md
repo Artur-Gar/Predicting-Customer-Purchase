@@ -30,14 +30,6 @@ This repository contains a full machine learning pipeline for predicting custome
 
 ---
 
-## 🧪 How to Use
-
-1. Clone the repo
-2. Make sure you have `torch`, `scikit-learn`, `numpy`, `pandas`, and `matplotlib` installed
-3. Run the `Purchase_prediction.ipynb` notebook step-by-step
-
----
-
 ## 📊 Data
 
 The dataset files are located in the `data/` folder:
