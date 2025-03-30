@@ -60,4 +60,4 @@ All reusable logic is in the `custom_modules/` folder, including:
 ## 📝 Author
 
 **Artur Garipov**  
-[LinkedIn](www.linkedin.com/in/artur-garipov-36037a319) | [GitHub](https://github.com/Artur-Gar)
+[LinkedIn](https://www.linkedin.com/in/artur-garipov-36037a319) | [GitHub](https://github.com/Artur-Gar)
